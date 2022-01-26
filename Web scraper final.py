@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 22 16:40:24 2022
 
-@author: javie
-"""
 
 import pandas as pd
 import pandasql as ps
